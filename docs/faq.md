@@ -50,3 +50,13 @@ GitHub 的[可接受使用政策](https://docs.github.com/en/site-policy/accepta
 ## 在哪里能看到完整的官方清单？
 
 GitHub 官方文档里的成就清单页已经下线。目前最全的社区清单是 [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)，本仓库的中文整理也基于它 + 实际验证。
+
+## 实测记录（2026-11-01）
+
+| 徽章 | 操作 | 结果 |
+| --- | --- | --- |
+| Quickdraw | 公开仓库开 issue，12 秒后关闭 | 刷新个人主页立即出现 |
+| YOLO | 自己的 PR，无任何 review，直接合并 | 合并后几秒出现 |
+| Pull Shark | 合并自己的第 7 个 PR | 计数累加，等级不变（基础档） |
+
+结论：成就统计**不一定**要等 24 小时，常见动作常常几分钟内生效；「24 小时」是官方给的兜底时间，等不到再怀疑操作本身。
