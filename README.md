@@ -57,7 +57,9 @@ GitHub 个人主页侧栏的 **Achievements（成就）** 是一组小徽章，�
 
 ## 关于等级
 
-部分徽章有 Bronze（x2）/ Silver（x3）/ Gold（x4）等级，等级标签显示在徽章图片角落。等级门槛见上表与各徽章详情页。
+部分徽章有 Bronze（x2）/ Silver（x3）/ Gold（x4）等级，等级标签显示在徽章图片角落。完整门槛见 [docs/tiers.md](docs/tiers.md)。
+
+做徽章操作前后，建议对照 [docs/checklist.md](docs/checklist.md) 逐项自查，能排掉大部分「操作了但没触发」的问题。
 
 ## 参考
 
